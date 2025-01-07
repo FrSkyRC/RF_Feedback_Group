@@ -21,4 +21,7 @@ New issue should contain:
 • Description how to reproduce the bug
 • If possible a screenshot or video, it is worth 1000 words :)
 
+> [!IMPORTANT]
+> When providing feedback on the issue, please specify the Radio/Transmitter model, Receiver model, and the current firmware version.
+
 Thanks again for your help on this feedback section, we hope it becomes better and better to fulfill all your demands!
